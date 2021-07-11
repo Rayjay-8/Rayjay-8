@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ray
 
-rayarruda9876@gmail.com
 <h4> 
 <a href="https://www.linkedin.com/in/rayarruda/">Linkedin</a>• 
 <a href="rayarruda9876@gmail.com">Gmail</a> •
+<a href="https://www.reddit.com/user/rayjayway">Reddit</a> 
 </h4>
 
 <!---
