@@ -6,7 +6,11 @@
 <a href="https://www.reddit.com/user/rayjayway">Reddit</a> 
 </h4>
 
-https://thumbs.gfycat.com/AdvancedCloudyHorseshoecrab-max-1mb.gif
+<div align="center">
+<img src="https://i.giphy.com/media/26FlsXbeMANdBgjy8/giphy.webp" alt="Share">
+
+  <br>
+
 
 <!---
 Rayjay-8/Rayjay-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
