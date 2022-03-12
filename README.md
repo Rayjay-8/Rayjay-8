@@ -10,8 +10,7 @@
 <div align="center">
 
  ![alt text](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47bd6t7dbhaz9wsqx62mfzxyjfe4wuij0z9enli8le&rid=giphy.gif&ct=g)
- 
- ![alt text](https://i.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.webp)
+
 
   <br>
 
