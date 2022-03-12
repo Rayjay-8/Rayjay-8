@@ -10,7 +10,7 @@
 <div align="center">
 
  
- ![Banner Image](https://github.com/Rayjay-8/Rayjay-8/blob/main/bannerray.png)
+ ![Banner Image](https://github.com/Rayjay-8/Rayjay-8/blob/main/banner.png)
 
   <br>
 
