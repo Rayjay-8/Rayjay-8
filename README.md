@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/rayarruda/">Linkedin</a>• 
 <a href="rayarruda9876@gmail.com">Gmail</a> •
 <a href="https://www.indiehackers.com/RayArruda">IndieHack</a> •
-<a href="https://www.reddit.com/user/rayjayway">Reddit</a> 
 </h4>
 
 <div align="center">
