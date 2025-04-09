@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](https://github.com/Rayjay-8/Rayjay-8/blob/main/chat.png)
+![Banner](https://github.com/Rayjay-8/Rayjay-8/blob/main/banner2025.png)
 
 </div>
 
