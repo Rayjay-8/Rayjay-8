@@ -1,20 +1,43 @@
-- 👋 Hi, I’m Ray
-
-<h4> 
-<a href="https://www.linkedin.com/in/rayarruda/">Linkedin</a>• 
-<a href="rayarruda9876@gmail.com">Gmail</a> •
-<a href="https://www.indiehackers.com/RayArruda">IndieHack</a> •
-</h4>
+# 👋 Hey, I’m Ray
 
 <div align="center">
 
- 
- ![Banner Image](https://github.com/Rayjay-8/Rayjay-8/blob/main/banner.png)
+![Banner](https://github.com/Rayjay-8/Rayjay-8/blob/main/chat.png)
 
-  <br>
+</div>
 
+Sou apaixonado por tecnologia, startups e desenvolvimento de soluções criativas. Gosto de transformar ideias em produtos que realmente fazem a diferença. Seja no back-end, front-end ou idealizando projetos do zero, estou sempre buscando aprender e evoluir. 🚀
 
-<!---
-Rayjay-8/Rayjay-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayarruda/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayarruda9876@gmail.com)
+[![IndieHackers](https://img.shields.io/badge/-IndieHackers-0f172a?style=flat-square&logo=indie-hackers&logoColor=white)](https://www.indiehackers.com/RayArruda)
+
+---
+
+## ⚒️ Tecnologias & Ferramentas
+
+- 🚀 JavaScript / TypeScript / Node.js / Express
+- 🌐 React / Next.js
+- 💾 MySQL / PostgreSQL / Oracle
+- ☁️ Supabase / Firebase
+- 📊 Power BI / Data Analysis
+- 🛠️ Git / GitHub / VS Code
+
+---
+
+## 📌 Em construção...
+
+Atualmente estou desenvolvendo projetos voltados para:
+- 🌍 Web apps que geram impacto real
+- 🧠 IA aplicada ao desenvolvimento
+- 📅 Plataformas com desafios diários para devs
+- 🙏 Soluções que espalham a Palavra de Deus
+
+---
+
+💡 *“Code the change you want to see in the world.”*
+
