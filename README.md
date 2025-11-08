@@ -1,11 +1,5 @@
 # 👋 Hey, I’m Ray
 
-<div align="center">
-
-![Banner](https://github.com/Rayjay-8/Rayjay-8/blob/main/banner2025.png)
-
-</div>
-
 Sou apaixonado por tecnologia, startups e desenvolvimento de soluções criativas. Gosto de transformar ideias em produtos que realmente fazem a diferença. Seja no back-end, front-end ou idealizando projetos do zero, estou sempre buscando aprender e evoluir. 🚀
 
 ---
