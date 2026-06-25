@@ -38,8 +38,6 @@ Engenheiro de Software com mais de 6 anos de experiência. Focado em React, Node
 
 - 🌍 Web apps que geram impacto real
 - 🧠 IA aplicada ao desenvolvimento de software
-- 📅 Plataformas com desafios diários para devs
-- 🙏 Soluções que espalham a Palavra de Deus
 
 ## Atividade no GitHub
 
