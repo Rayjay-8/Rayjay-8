@@ -1,10 +1,12 @@
 # Olá, eu sou Ray Arruda 👋
 
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,docker,go,rust,nodejs,next,postgres,supabase&direction=right)
+
 
 📍 **Brasil** | 💻 **Engenheiro de Software** | 🚀 **Full Stack · SaaS · IA**
 
-Engenheiro de Software com mais de 6 anos de experiência. Focado em React, Node.js, Next.js, TypeScript e produtos digitais que geram resultado — leio o contexto de cada demanda, trabalho perto do produto e entrego impacto mensurável. Fundador da **[CAW Agency](https://caw.agency)**, agência de software.
+Engenheiro de Software com mais de 6 anos de experiência. Focado em React, Node.js, Next.js, TypeScript e produtos digitais que geram resultado. Usei toda minha experiência para Fundar a **[CAW Agency](https://caw.agency)**, agência de software.
+
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,docker,go,rust,nodejs,next,postgres,supabase&direction=right)
 
 ## Comece aqui
 
