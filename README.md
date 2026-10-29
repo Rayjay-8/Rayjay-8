@@ -6,7 +6,7 @@
 
 Engenheiro de Software com mais de 6 anos de experiência. Focado em React, Node.js, Next.js, TypeScript e produtos digitais que geram resultado. Usei toda minha experiência para Fundar a **[CAW Agency](https://caw.agency)**, agência de software.
 
-![icon-marquee]([https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,docker,go,rust,nodejs,next,postgres,supabase&direction=right](https://icon-marquee.giann.dev/v1/marquee?i=ws,yt,wasm,vue,chrome,aws,nuxt,htb,rollup,py,scss,tailwind,pwsh,js,ts,react,docker,go,rust,nodejs,next,postgres,supabase&direction=right)
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=ws,yt,wasm,vue,chrome,aws,nuxt,htb,rollup,py,scss,tailwind,pwsh,js,ts,react,docker,go,rust,nodejs,next,postgres,supabase&direction=right)
 
 ## Comece aqui
 
